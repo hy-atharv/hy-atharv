@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ Currently active in Backend Programming<br>🧮 Occasionally work on Innovative Full Stack Projects<br>🔮 Enthusiastic about Artificial Intelligence related Projects<br>👨‍💻 Learning Software Development<br>🌐 Looking forward to contribute to Open Source Projects
+⚒️ Currently learning App Development<br>🧮 Occasionally work on Innovative Full Stack Projects<br>🔮 Enthusiastic about Artificial Intelligence related Projects<br>🌐 Looking forward to contribute to Open Source Projects
 
 
 ## 🌐 Socials:
