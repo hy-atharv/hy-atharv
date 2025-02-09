@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I like to build cool stuff<br>🧮 Occasionally work on Innovative Full Stack Projects<br>🔮 Enthusiastic about Artificial Intelligence related Projects<br>🌐 Looking forward to contribute to Open Source Projects
+⚒️ Developer<br>🧮 Occasionally work on Innovative Full Stack Projects<br>🔮 Enthusiastic about Artificial Intelligence related Projects<br>🌐 Looking forward to contribute to Open Source Projects
 
 
 ## 🌐 Socials:
